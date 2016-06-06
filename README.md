@@ -1,1 +1,0 @@
-# big-panda-server
