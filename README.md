@@ -1,6 +1,6 @@
 # Development
 
-1. Clone the project with `git clone ..`
+1. Clone the project with `https://github.com/idoxer/big-panda-server.git`
 2. In the cloned folder install the requirement npm modules `npm install`
 3. Start the server locally `npm start` _(it will open the page once it finished initializing)_
 
